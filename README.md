@@ -45,7 +45,7 @@ This project showcases my work during a 1-month internship in my 6th semester as
 
 | Admissions Home | Application Form |
 | --------------- | --------------- |
-| ![Admissions Home](screenshot-homepage.png) | ![Application Form](screenshot-form.png) |
+| ![Admissions Home](<img width="1899" height="911" alt="Image" src="https://github.com/user-attachments/assets/c8465797-804a-422a-a681-64a63f1f1131" />) | ![Application Form](screenshot-form.png) |
 
 ---
 
