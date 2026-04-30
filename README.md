@@ -10,9 +10,9 @@ This project showcases my work during a 1-month internship in my 6th semester as
 
 - **Role:** Web Cell Intern
 - **Duration:** 1 Month (6th Semester)
-- **Institution:** [Your College Name]
+- **Institution:** Biayni College of Science & Management 
 - **Project:** Migration of the Admissions Page to React.js
-- **Timeline:** [Month, Year]
+- **Timeline:** April,2026
 
 ---
 
