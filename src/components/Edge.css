@@ -1,0 +1,121 @@
+/* Edge.css - Professional Enhancements */
+
+.edge-section {
+    position: relative;
+    overflow: hidden;
+    background: #fff;
+}
+
+.edge-bg-container {
+    background-image: url("/bgc/kushal/img/edge/WEB.jpeg");
+    background-size: cover;
+    background-position: center right;
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+    padding: 60px 0;
+    position: relative;
+}
+
+.edge-content-box {
+    position: relative;
+    z-index: 2;
+}
+
+.title-underline {
+    width: 60px;
+    height: 4px;
+    border-radius: 2px;
+    background: linear-gradient(90deg, var(--red), transparent);
+}
+
+.sub-title {
+    color: var(--red);
+    font-weight: 700;
+    line-height: 1.4;
+}
+
+.desc-text {
+    color: rgba(0,0,0,0.75);
+    line-height: 1.7;
+    text-align: justify;
+    font-size: 0.95rem;
+}
+
+.edge-feature-card {
+    background: #fff;
+    padding: 12px;
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+    border: 1px solid rgba(0,0,0,0.03);
+    transition: all 0.3s ease;
+}
+
+.edge-feature-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+
+.icon-wrapper {
+    width: 40px;
+    height: 40px;
+    background: #f8f9fa;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.icon-wrapper img {
+    width: 20px;
+    height: 20px;
+    object-fit: contain;
+}
+
+/* Responsive Mobile Fixes */
+@media (max-width: 991px) {
+    .edge-bg-container {
+        background-position: center left;
+        min-height: auto;
+        padding: 40px 0;
+    }
+
+    .edge-bg-container::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: rgba(255, 255, 255, 0.85); /* Overlay to make text readable */
+        z-index: 1;
+    }
+
+    .edge-content-box {
+        text-align: center;
+    }
+
+    .title-underline {
+        margin: 0 auto;
+    }
+
+    .desc-text {
+        text-align: center;
+    }
+
+    .edge-feature-card {
+        flex-direction: column;
+        padding: 15px 10px;
+        text-align: center;
+        gap: 8px;
+    }
+
+    .edge-feature-card p {
+        font-size: 0.8rem;
+        line-height: 1.2;
+    }
+}
