@@ -1,26 +1,20 @@
-<p align="center">
-  <img src="screenshot-placeholder.png" alt="Project Banner" width="60%"/>
-</p>
+# College Website React Migration
 
-# Kushal Kumawat | College Admissions Page (React Migration)
+![Project Banner](screenshot-placeholder.png)
 
-<p align="center">
-  <a href="https://biyaniiti.com/bgc/kushal/" target="_blank"><img src="https://img.shields.io/badge/Live%20Website-Admissions-blueviolet?style=for-the-badge&logo=vercel" alt="Live Website"></a>
-  <img src="https://img.shields.io/badge/Optimized-Performance-brightgreen?style=for-the-badge&logo=rocket" alt="Optimized">
-  <img src="https://img.shields.io/badge/Internship-6th%20Semester-blue?style=for-the-badge&logo=graduation-cap" alt="Internship">
-  <img src="https://img.shields.io/badge/React.js-Vite-61DAFB?style=for-the-badge&logo=react" alt="React Vite">
-  <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge" alt="MIT License">
-</p>
+## Overview
 
-> “Modernizing the admissions experience: From legacy to React.js — as part of my 1-month Web Cell internship (6th semester).”
+This project showcases my work during a 1-month internship in my 6th semester as a Web Cell Intern at my college. My primary responsibility was to migrate the Admissions page of the official college website from legacy code to a modern, scalable React.js application.
 
 ---
 
-## 🚀 Project Overview
+## Internship Details
 
-This repository contains the React.js migration of the **Admissions page** for Biyani Group of Colleges, completed during my 1-month Web Cell internship in the 6th semester. The goal was to deliver a modern, responsive, and maintainable admissions interface, improving both user experience and code quality.
-
-**🔗 [Live Website](https://biyaniiti.com/bgc/kushal/)**
+- **Role:** Web Cell Intern
+- **Duration:** 1 Month (6th Semester)
+- **Institution:** [Your College Name]
+- **Project:** Migration of the Admissions Page to React.js
+- **Timeline:** [Month, Year]
 
 ---
 
