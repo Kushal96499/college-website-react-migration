@@ -1,6 +1,5 @@
 # College Website React Migration
 
-![Project Banner]<img width="1024" height="273" alt="Image" src="https://github.com/user-attachments/assets/219cc3f5-08d2-47a1-81c0-bf24a9cc5106" />
 
 ## Overview
 
