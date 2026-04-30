@@ -1,7 +1,5 @@
 # College Website React Migration
 
-![Project Banner](screenshot-placeholder.png)
-
 ## Overview
 
 This project showcases my work during a 1-month internship in my 6th semester as a Web Cell Intern at my college. My primary responsibility was to migrate the Admissions page of the official college website from legacy code to a modern, scalable React.js application.
